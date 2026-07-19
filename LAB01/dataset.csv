@@ -1,0 +1,613 @@
+student_id,study_hours_per_week,attendance_rate,sleep_hours,parental_education,study_method,exam_score
+STU1292,9.1,95.7,,High School,Self-study,68.2
+STU1515,15.8,88.6,6.4,PhD,Group Study,73.2
+STU1404,9.7,92.0,5.9,High School,Self-study,50.6
+STU1328,,100.0,5.9,Master,Self-study,78.4
+STU1217,10.8,93.9,6.8,Master,Group Study,42.0
+STU1053,15.1,73.9,7.0,PhD ,Tutoring,73.9
+STU1558,14.0,94.8,8.6,Bachelor,Group Study,50.7
+STU1193,5.8,72.2,6.7,High School,Tutoring,58.7
+STU1592,14.4,79.0,6.3,Bachelor,Group Study,47.3
+STU1407,11.3,91.4,8.6,High School,Group Study,69.6
+STU1273,12.1,77.7,6.5,High school ,Tutoring,62.7
+STU1115,13.5,96.0,4.8,PhD,Self-study,60.2
+STU1110,2.4,87.1,6.5,Bachelor,Online Course,69.8
+STU1521,14.7,96.9,6.2,Master,Group Study,77.9
+STU1520,3.7,96.1,7.2,Bachelor,Self-study,60.7
+STU1458,9.2,90.4,5.2,Bachelors,Online Course,30.6
+STU1518,12.5,87.0,7.4,Master,Online Course,58.6
+STU1289,8.9,96.1,8.1,High School,Tutoring,79.5
+STU1154,13.5,75.5,5.8,Bachelor,Self-study,54.4
+STU1369,8.1,70.7,5.8,Master,Tutoring,57.7
+STU1172,11.6,91.3,4.7,Master,Self-study,69.4
+STU1471,0.5,89.8,6.0,PhD,Tutoring,43.2
+STU1583,23.4,69.3,7.5,Bachelor,Self-study,73.2
+STU1506,9.0,91.1,7.4,Bachelor,Self-study,68.1
+STU1576,13.2,68.1,5.7,bachelor,Group Study,54.3
+STU1385,12.8,73.4,7.4,High School,Group Study,77.9
+STU1556,9.6,78.1,6.3,Bachelor,Group Study,53.1
+STU1249,14.0,79.7,6.5,Bachelors,Group Study,65.3
+STU1252,22.6,78.6,6.8,Bachelor,Group Study,67.5
+STU1340,7.9,72.2,6.5,Bachelor,Online Course,55.2
+STU1387,21.4,93.8,6.0,Bachelor,Online Course,74.0
+STU1101,9.9,95.5,7.8,Bachelor,Self-study,60.6
+STU1337,10.4,92.1,5.8,High School,Self-study,79.0
+STU1553,13.3,71.8,4.1,High School,Online Course,42.9
+STU1329,15.1,84.3,5.0,PhD,Online Course,72.8
+STU1109,11.6,100.0,7.1,High School,Group Study,68.8
+STU1146,5.8,86.9,3.2,Master,Self-study,56.0
+STU1533,5.9,,6.1,Master,Self-study,51.7
+STU1320,12.5,95.7,8.1,Bachelor,Tutoring,94.6
+STU1244,6.0,,7.0,Bachelor,Group Study,46.8
+STU1429,3.2,74.8,7.6,High School,Group Study,60.3
+STU1417,12.6,80.2,5.5,Bachelor,Tutoring,60.2
+STU1509,7.8,100.0,5.2,Bachelor,Tutoring,70.1
+STU1568,2.6,90.9,6.7,Bachelor,Self-study,40.1
+STU1578,4.6,75.1,5.9,High School,Self-study,44.9
+STU1142,4.0,78.8,7.1,High School,Self-study,53.9
+STU1334,16.9,,5.9,High School,Self-study,65.8
+STU1589,7.7,75.3,8.2,PhD,Self-study,67.2
+STU1159,15.3,92.0,6.7,bachelor,Self-study,71.6
+STU1240,8.0,84.5,7.4,High School,Tutoring,50.5
+STU1561,22.4,100.0,7.5,Bachelor,Online Course,66.7
+STU1168,10.8,78.7,5.9,High School,Self-study,56.4
+STU1134,7.4,95.3,,High School,Self-study,89.0
+STU1283,5.8,95.4,6.0,Bachelor,Tutoring,31.9
+STU1270,19.2,83.2,8.1,Bachelor,Online Course,83.6
+STU1280,12.6,100.0,7.4,Bachelor,Online Course,68.8
+STU1552,17.8,78.6,5.6,HIGH SCHOOL,Online Course,74.8
+STU1070,13.8,97.5,7.9,High School,Tutoring,57.9
+STU1098,12.0,94.2,6.8,High School,Group Study,71.8
+STU1099,10.8,83.2,6.9,High School,Tutoring,57.6
+STU1503,14.8,83.6,7.9,Bachelor,Group Study,70.0
+STU1500,16.6,,7.0,Bachelor,Self-study,83.7
+STU1200,,94.4,5.1,Bachelor,Tutoring,58.9
+STU1324,7.0,97.0,6.0,Master,Group Study,59.4
+STU1370,12.1,,7.5,Bachelor,Group Study,75.0
+STU1013,2.4,73.7,7.7,Bachelor,Tutoring,57.8
+STU1564,18.0,95.2,6.2,Bachelor,Tutoring,66.2
+STU1060,9.6,79.3,7.2,BACHELOR,Tutoring,57.0
+STU1258,14.2,79.5,8.2,PhD,Self-study,68.4
+STU1272,17.8,71.2,6.3,Bachelor,Self-study,66.8
+STU1245,10.3,89.9,5.7,Bachelors,Online Course,73.4
+STU1236,1.9,100.0,6.2,Bachelor,Group Study,58.0
+STU1003,19.6,98.6,7.2,PhD ,Online Course,60.6
+STU1410,15.6,,6.1,High School,Group Study,57.1
+STU1572,13.6,86.0,5.7,Bachelor,Tutoring,65.9
+STU1052,8.6,82.3,3.9,High School,Group Study,41.6
+STU1510,13.4,83.1,7.9,High School,Group Study,61.7
+STU1323,22.5,78.0,5.3,Bachelor,Tutoring,70.1
+STU1050,13.6,100.0,6.9,Master,Tutoring,62.5
+STU1482,,81.8,5.3,Bachelor,Tutoring,63.2
+STU1132,,89.1,,High School,Online Course,51.5
+STU1259,15.9,91.3,7.4,Bachelor,Tutoring,72.6
+STU1358,13.6,90.7,8.4,Bachelor,Tutoring,82.4
+STU1248,20.8,78.6,8.1,Master,Self-study,70.1
+STU1501,21.5,56.0,7.1,Master,Group Study,55.9
+STU1030,9.0,68.1,5.8,PhD,Group Study,60.7
+STU1141,18.5,72.2,6.5,High school ,Online Course,62.9
+STU1294,13.8,98.8,8.5,highschool,Self-study,82.5
+STU1367,12.1,100.0,7.2,Master,Self-study,54.1
+STU1022,12.3,100.0,7.3,Master,Self-study,65.8
+STU1577,15.9,,6.5,PhD ,Group Study,52.8
+STU1192,13.1,87.7,9.1,Master,Online Course,80.5
+STU1453,14.5,87.6,6.0,Bachelor,Self-study,66.0
+STU1051,10.1,96.3,7.6,High School,Self-study,84.1
+STU1140,13.1,66.6,6.7,Bachelor,Online Course,62.1
+STU1187,11.6,89.6,,Bachelor,Tutoring,71.1
+STU1390,7.5,87.1,5.1,Bachelor,Online Course,38.4
+STU1452,7.1,89.9,6.8,Master,Online Course,42.0
+STU1530,15.2,88.2,6.2,High School,Group Study,64.2
+STU1431,,68.3,5.4,Bachelor,Self-study,51.9
+STU1256,18.3,76.7,7.5,High School,Tutoring,64.1
+STU1383,9.4,84.5,6.6,Bachelor,Online Course,74.3
+STU1566,1.8,98.8,9.3,Master,Self-study,50.4
+STU1505,9.6,74.6,6.2,High School,Online Course,90.3
+STU1229,15.4,82.2,6.1,PhD,Self-study,60.4
+STU1597,7.1,90.5,5.5,Bachelor,Self-study,45.8
+STU1378,22.9,69.2,5.5,High School,Tutoring,93.3
+STU1436,20.1,72.7,5.3,Bachelor,Online Course,68.4
+STU1316,15.4,91.1,8.5,highschool,Self-study,68.3
+STU1097,13.3,72.5,6.1,Bachelor,Group Study,77.7
+STU1450,11.7,78.7,,PhD,Online Course,59.7
+STU1281,15.3,79.7,6.0,High School,Tutoring,71.4
+STU1214,10.4,95.3,5.7,Bachelor,Self-study,71.9
+STU1155,8.4,100.0,3.1,BACHELOR,Tutoring,74.1
+STU1055,16.7,85.6,4.9,Master,Self-study,59.9
+STU1023,4.9,98.5,7.0,Bachelor,Online Course,50.8
+STU1204,5.1,80.7,7.8,Master,Self-study,32.8
+STU1342,13.2,91.5,8.7,bachelor,Self-study,70.2
+STU1563,10.4,68.5,4.4,High School,Self-study,65.7
+STU1242,14.5,73.8,6.7,Bachelor,Group Study,56.9
+STU1239,16.3,82.9,7.5,Master,Self-study,49.1
+STU1388,16.8,82.8,5.4,Bachelor,Online Course,62.4
+STU1371,14.5,78.2,4.9,High School,Tutoring,61.4
+STU1360,14.6,91.4,6.5,Master,Self-study,55.7
+STU1430,6.1,82.4,7.1,High School,Group Study,47.2
+STU1179,25.6,91.2,8.9,Bachelor,Self-study,89.0
+STU1046,,58.0,6.5,Bachelor,Online Course,65.4
+STU1439,11.7,95.5,5.1,Bachelor,Self-study,71.5
+STU1470,10.6,84.5,6.2,Bachelor,Online Course,64.2
+STU1590,12.4,86.1,4.1,High School,Group Study,40.7
+STU1082,19.4,79.8,7.4,Master,Group Study,58.0
+STU1301,9.2,81.1,5.8,Bachelor,Group Study,47.2
+STU1411,6.4,87.0,4.5,PhD,Tutoring,60.6
+STU1435,12.4,100.0,6.0,Bachelor,Tutoring,75.2
+STU1038,5.4,72.1,7.2,Bachelor,Self-study,50.5
+STU1379,8.0,92.6,5.4,Ph.D,Group Study,58.7
+STU1010,9.7,91.5,4.9,Master,Self-study,54.6
+STU1464,11.4,81.4,8.2,High School,Self-study,69.9
+STU1032,11.9,83.4,6.4,High School,Group Study,72.4
+STU1511,11.7,87.2,6.3,High School,Tutoring,82.4
+STU1528,13.3,84.4,7.0,High School,Group Study,72.3
+STU1025,12.6,79.9,6.3,High School,Online Course,66.5
+STU1201,14.8,79.8,7.2,bachelor,Self-study,63.8
+STU1542,14.6,83.5,6.6,Bachelor,Group Study,71.0
+STU1300,7.9,88.7,7.5,PhD,Tutoring,63.5
+STU1539,9.1,92.0,8.7,High School,Tutoring,55.9
+STU1433,15.6,91.5,7.8,High School,Group Study,80.3
+STU1202,17.4,86.0,8.0,Bachelor,Group Study,62.7
+STU1089,14.6,89.4,3.7,High School,Group Study,64.3
+STU1065,18.8,86.1,4.7,Master,Self-study,51.7
+STU1395,9.7,82.2,5.2,BACHELOR,Tutoring,50.2
+STU1327,16.0,88.8,8.5,High School,Self-study,83.2
+STU1557,9.8,100.0,7.7,High School,Tutoring,67.0
+STU1278,12.3,84.8,5.3,Bachelor,Online Course,60.2
+STU1551,11.2,63.5,7.4,Bachelor,Self-study,62.8
+STU1351,19.4,88.5,6.2,Bachelor,Online Course,91.2
+STU1321,15.0,74.7,,Bachelor,Self-study,72.8
+STU1344,9.6,100.0,5.7,Bachelor,Self-study,60.7
+STU1548,13.9,100.0,6.7,High School,Self-study,77.4
+STU1040,15.7,81.6,6.0,PhD,Online Course,64.5
+STU1595,9.4,89.4,5.5,High School,Group Study,43.6
+STU1213,15.3,87.0,,High School,Tutoring,60.0
+STU1305,12.6,85.5,5.9,Bachelor,Self-study,81.0
+STU1425,18.8,89.4,7.9,High School,Group Study,88.7
+STU1377,12.9,60.8,8.0,PhD,Group Study,60.0
+STU1221,2.7,99.1,7.9,Master,Group Study,59.2
+STU1056,7.8,85.1,8.7,Master,Tutoring,74.7
+STU1492,12.4,92.3,7.6,Master,Self-study,67.3
+STU1071,19.7,64.3,7.3,High School,Self-study,64.8
+STU1441,11.8,80.4,8.3,High School,Online Course,69.2
+STU1580,13.7,86.8,4.7,High School,Online Course,52.9
+STU1090,,81.4,7.0,Bachelor,Online Course,68.7
+STU1166,16.1,84.7,6.5,Masters,Self-study,65.7
+STU1293,16.2,96.7,6.7,High School,Self-study,59.2
+STU1170,7.6,92.1,6.3,Bachelor,Self-study,65.3
+STU1054,17.2,100.0,8.1,High School,Tutoring,86.5
+STU1380,7.8,92.9,6.8,PhD,Self-study,57.7
+STU1291,9.5,90.1,9.8,Bachelor,Self-study,67.5
+STU1222,15.4,100.0,6.0,Bachelor,Self-study,86.0
+STU1066,11.6,82.5,6.4,PhD,Self-study,72.6
+STU1261,11.7,69.8,4.9,Bachelor,Self-study,54.5
+STU1416,19.8,78.5,6.9,Bachelor,Tutoring,66.4
+STU1209,31.3,76.1,6.2,Bachelor,Self-study,95.0
+STU1498,7.6,94.2,7.2,High School,Self-study,67.5
+STU1243,16.3,88.8,4.8,Master,Online Course,69.3
+STU1120,16.0,88.1,6.6,MASTER,Tutoring,47.1
+STU1306,18.4,71.4,7.4,High School,Tutoring,57.8
+STU1336,7.9,74.8,7.2,Masters,Online Course,56.0
+STU1188,7.8,84.3,6.5,High School,Tutoring,49.9
+STU1330,,79.4,,High School,Self-study,65.8
+STU1173,13.7,94.7,4.4,High School,Self-study,67.8
+STU1472,4.4,85.8,6.0,HIGH SCHOOL,Online Course,45.0
+STU1529,7.5,88.3,8.9,Bachelor,Self-study,69.5
+STU1567,7.0,90.6,6.3,Master,Online Course,38.8
+STU1423,16.9,100.0,5.6,High School,Group Study,70.6
+STU1118,17.7,81.4,5.7,Bachelor,Self-study,66.3
+STU1119,15.8,84.4,6.3,PhD,Self-study,62.0
+STU1466,15.1,72.1,5.2,Bachelor,Self-study,41.9
+STU1463,13.1,67.6,5.7,Master,Self-study,46.2
+STU1220,23.6,79.8,7.2,High School,Online Course,77.5
+STU1138,16.1,100.0,,High school ,Group Study,83.9
+STU1145,15.9,77.7,4.6,PhD,Group Study,59.5
+STU1148,14.6,,4.7,High School,Tutoring,74.7
+STU1322,7.9,86.3,6.2,High School,Self-study,57.1
+STU1271,4.8,77.0,5.7,Bachelor,Group Study,63.6
+STU1162,,100.0,6.7,Master,Tutoring,80.6
+STU1437,5.1,70.4,,PhD,Online Course,39.4
+STU1114,11.0,84.6,6.5,Bachelor,Tutoring,41.4
+STU1485,4.9,89.3,8.0,High School,Online Course,61.2
+STU1150,13.3,75.8,5.0,Bachelor,Online Course,40.5
+STU1513,7.5,90.0,7.6,High School,Online Course,64.8
+STU1489,16.4,83.0,6.2,Bachelor,Self-study,83.1
+STU1392,5.4,82.5,7.1,Master,Group Study,76.1
+STU1031,21.3,100.0,4.7,Bachelor,Self-study,80.0
+STU1343,9.5,84.0,5.9,High School,Group Study,61.1
+STU1284,22.7,91.8,6.8,Master,Online Course,72.8
+STU1020,19.3,77.1,5.0,High School,Online Course,66.8
+STU1536,7.7,96.9,5.1,Bachelor,Group Study,64.7
+STU1113,24.3,89.0,7.2,High School,Group Study,86.0
+STU1359,7.9,89.5,6.1,high school,Group Study,64.4
+STU1000,14.5,92.6,6.7,Bachelor,Tutoring,89.2
+STU1232,12.2,75.0,,Bachelor,Online Course,66.2
+STU1587,7.8,82.8,5.5,Bachelor,Group Study,45.3
+STU1446,13.8,91.5,6.3,Bachelor,Online Course,56.8
+STU1235,15.2,87.3,6.9,Bachelor,Online Course,98.2
+STU1446,13.8,91.5,6.3,Bachelor,Online Course,56.8
+STU1532,11.7,100.0,6.5,Bachelor,Self-study,50.0
+STU1002,15.2,93.7,6.7,Bachelor,Self-study,61.8
+STU1404,9.7,92.0,5.9,High School,Self-study,50.6
+STU1058,13.7,87.0,5.6,PhD,Self-study,67.7
+STU1461,12.2,56.5,6.3,Bachelor,Group Study,58.6
+STU1428,17.3,91.1,6.6,High School,Group Study,50.9
+STU1004,10.8,89.1,,Bachelor,Self-study,42.5
+STU1308,14.7,91.5,6.6,HIGH SCHOOL,Online Course,64.5
+STU1508,12.2,78.8,6.3,Bachelor,Group Study,66.7
+STU1074,0.0,70.9,8.1,High School,Online Course,58.8
+STU1191,16.3,87.1,5.6,Bachelor,Group Study,76.2
+STU1318,13.6,80.5,5.2,High School,Online Course,33.8
+STU1549,,76.5,7.8,Bachelor,Self-study,53.1
+STU1490,12.0,84.3,7.3,High School,Self-study,82.3
+STU1080,10.9,92.2,6.7,bachelor,Tutoring,74.1
+STU1357,10.6,89.6,5.5,High School,Group Study,57.7
+STU1026,6.2,75.1,6.6,Master,Self-study,40.2
+STU1401,9.0,94.2,8.3,High School,Tutoring,61.2
+STU1216,8.1,87.7,6.6,High School,Tutoring,55.5
+STU1477,13.6,80.7,8.5,Bachelor,Self-study,52.8
+STU1514,9.1,86.5,5.8,High School,Self-study,65.9
+STU1384,8.2,85.0,7.1,Master,Self-study,33.9
+STU1057,10.5,84.8,7.0,Bachelor,Self-study,58.3
+STU1319,11.3,86.9,8.9,PhD,Tutoring,62.6
+STU1108,13.3,64.2,7.9,Bachelor,Self-study,46.3
+STU1277,9.0,87.2,7.0,High School,Self-study,73.1
+STU1147,5.4,77.4,7.7,PhD ,Online Course,52.6
+STU1228,8.4,80.8,6.2,Master,Group Study,58.7
+STU1014,3.4,100.0,6.1,high school,Tutoring,52.6
+STU1174,13.4,91.2,8.4,Bachelor ,Group Study,68.0
+STU1086,16.6,82.6,4.1,Master,Group Study,56.6
+STU1165,,78.0,6.3,Bachelor,Self-study,64.0
+STU1531,3.7,89.2,6.0,Bachelor,Tutoring,51.8
+STU1059,16.9,83.6,,Bachelors,Online Course,71.3
+STU1525,3.0,73.5,7.9,Bachelor,Online Course,56.2
+STU1164,16.8,96.5,8.1,bachelor,Group Study,80.0
+STU1041,12.9,100.0,6.2,Bachelor,Self-study,47.3
+STU1333,8.6,63.0,6.3,Master,Tutoring,57.9
+STU1079,2.1,97.7,6.1,Bachelor,Tutoring,44.3
+STU1354,11.9,84.2,6.2,High School,Group Study,48.1
+STU1028,9.0,85.6,7.8,Bachelor,Tutoring,59.1
+STU1285,2.2,100.0,7.7,Master,Group Study,42.1
+STU1304,,86.9,6.3,Bachelor,Tutoring,49.8
+STU1419,12.3,89.2,8.0,Bachelor,Online Course,63.0
+STU1313,16.1,100.0,4.1,Bachelor,Tutoring,59.0
+STU1084,8.0,72.8,5.5,PhD,Group Study,52.4
+STU1062,6.5,84.7,7.2,bachelor,Self-study,64.8
+STU1591,9.6,71.7,6.6,High School,Group Study,45.4
+STU1136,8.1,87.6,5.7,Bachelor,Online Course,60.3
+STU1111,11.9,84.0,7.6,Bachelor,Self-study,87.8
+STU1194,12.9,74.2,,bachelor,Group Study,63.9
+STU1386,13.7,100.0,6.7,Bachelor,Self-study,53.8
+STU1043,10.5,70.0,5.2,High School,Group Study,55.9
+STU1381,9.0,89.3,8.0,Master,Group Study,57.6
+STU1129,9.5,77.2,7.3,High School,Group Study,79.4
+STU1546,14.9,74.0,7.8,High School,Self-study,59.1
+STU1218,85.1,85.8,8.5,HIGH SCHOOL,Online Course,68.7
+STU1096,,88.3,7.7,Bachelor,Tutoring,63.9
+STU1124,14.9,86.7,6.6,Bachelor,Self-study,89.8
+STU1574,16.1,77.5,5.5,Master,Tutoring,77.0
+STU1226,12.3,100.0,9.2,PhD,Online Course,90.0
+STU1177,19.3,82.5,7.9,Bachelor,Self-study,83.2
+STU1447,7.3,69.2,7.8,High School,Self-study,38.4
+STU1586,9.7,75.2,6.1,Master,Group Study,53.7
+STU1573,10.9,84.4,6.8,High School,Tutoring,66.8
+STU1103,8.0,70.9,5.5,Master,Self-study,56.2
+STU1081,13.8,73.7,6.3,Master,Tutoring,79.1
+STU1346,4.8,69.7,5.2,Master,Online Course,29.7
+STU1560,13.4,60.0,8.6,High School,Group Study,47.7
+STU1264,10.7,78.9,5.7,PhD,Group Study,61.2
+STU1570,12.1,92.6,6.6,Bachelor,Self-study,63.4
+STU1227,6.6,79.8,5.1,HIGH SCHOOL,Online Course,66.2
+STU1275,14.3,100.0,7.3,High School,Tutoring,67.4
+STU1382,1.4,75.3,5.2,Bachelor,Online Course,42.6
+STU1263,6.9,100.0,5.4,Master,Tutoring,58.2
+STU1473,18.8,72.2,5.3,High School,Group Study,66.8
+STU1253,17.2,96.9,9.9,bachelor,Group Study,73.0
+STU1171,7.9,79.4,8.7,Bachelor,Group Study,25.4
+STU1237,12.9,75.0,8.6,Bachelor,Group Study,57.3
+STU1397,18.8,91.4,9.2,Bachelor,Group Study,76.3
+STU1139,5.8,95.1,6.7,Bachelor,Group Study,58.8
+STU1303,82.5,97.8,6.5,High School,Tutoring,82.8
+STU1267,4.8,88.3,7.0,High school ,Group Study,53.3
+STU1547,11.0,70.6,7.2,Ph.D,Self-study,48.2
+STU1375,8.2,66.1,6.5,High School,Online Course,75.0
+STU1212,16.8,99.5,7.1,Bachelor,Tutoring,65.3
+STU1198,12.3,85.3,8.1,Bachelor,Self-study,62.9
+STU1468,9.3,80.3,7.6,Master,Self-study,53.2
+STU1015,9.2,86.3,8.1,High School,Tutoring,51.1
+STU1163,7.9,84.0,5.2,Bachelor,Tutoring,62.8
+STU1440,13.9,100.0,6.5,highschool,Online Course,70.7
+STU1406,6.7,94.0,6.7,Master,Tutoring,74.9
+STU1414,13.7,100.0,6.3,Bachelor,Self-study,63.9
+STU1037,2.2,85.7,5.8,High School,Online Course,50.6
+STU1519,15.8,95.5,5.9,PhD,Group Study,58.0
+STU1206,14.6,87.2,4.7,Bachelor,Group Study,64.9
+STU1295,8.5,91.5,9.1,Masters,Group Study,61.8
+STU1555,9.9,95.1,8.3,Bachelor,Self-study,67.6
+STU1073,19.8,81.3,6.1,Bachelor,Online Course,79.8
+STU1394,17.9,75.0,3.4,PhD,Group Study,66.3
+STU1104,11.2,69.4,7.2,High School,Group Study,56.4
+STU1339,9.2,,2.8,Bachelor,Online Course,37.4
+STU1016,6.9,86.1,5.6,master,Self-study,31.7
+STU1091,16.8,96.6,9.7,Bachelor,Tutoring,75.6
+STU1088,9.4,92.1,5.1,high school,Self-study,54.7
+STU1418,17.9,159.7,5.9,Bachelor,Online Course,91.8
+STU1205,7.3,81.9,5.5,Bachelor,Group Study,56.9
+STU1102,10.3,78.0,6.3,Bachelor,Online Course,71.0
+STU1238,8.7,94.8,7.1,Master,Online Course,61.6
+STU1372,19.3,93.4,6.9,Master,Online Course,71.5
+STU1246,9.6,87.9,5.8,PhD,Group Study,59.7
+STU1157,14.4,86.8,7.0,Bachelor ,Tutoring,100.0
+STU1326,17.8,79.4,8.9,High School,Self-study,57.9
+STU1133,14.4,68.0,8.4,PhD,Tutoring,61.4
+STU1403,12.2,78.5,5.5,PhD,Tutoring,45.7
+STU1499,5.1,88.5,6.7,High School,Tutoring,38.3
+STU1018,7.5,89.8,5.4,Bachelor,Group Study,54.8
+STU1478,27.4,100.0,7.8,Bachelor ,Self-study,95.7
+STU1496,6.8,85.8,5.2,MASTER,Group Study,59.4
+STU1355,7.0,96.2,7.0,Bachelor,Self-study,53.2
+STU1274,7.1,84.7,5.5,PhD,Tutoring,48.3
+STU1467,15.8,96.6,5.8,PHD,Self-study,73.8
+STU1540,16.2,82.0,6.4,High School,Self-study,74.7
+STU1311,17.5,87.2,6.2,High School,Self-study,68.3
+STU1408,12.6,95.5,6.9,MASTER,Self-study,63.5
+STU1526,3.9,88.0,5.8,Bachelor,Group Study,40.3
+STU1268,9.8,91.6,4.9,PhD,Tutoring,75.8
+STU1034,16.1,74.9,5.5,Master,Group Study,57.2
+STU1181,7.7,71.6,5.9,High School,Online Course,37.2
+STU1184,10.9,90.6,7.5,Bachelor,Group Study,74.3
+STU1207,14.6,80.2,8.5,High School,Self-study,57.6
+STU1449,6.7,98.8,9.9,Bachelor,Tutoring,73.4
+STU1094,10.0,90.9,6.6,MASTER,Tutoring,60.9
+STU1523,14.9,73.6,7.3,Bachelor,Group Study,82.2
+STU1422,71.2,84.8,7.7,MASTER,Group Study,70.4
+STU1353,,99.4,5.4,High School,Self-study,67.3
+STU1122,19.0,71.5,6.4,Bachelor,Online Course,55.7
+STU1575,0.9,82.2,4.8,Bachelor,Self-study,61.6
+STU1364,15.5,84.1,7.5,Bachelor,Tutoring,85.3
+STU1078,12.5,94.4,6.7,High School,Self-study,47.8
+STU1350,13.6,82.6,6.4,Bachelor,Online Course,61.9
+STU1061,11.1,79.5,6.6,High School,Self-study,68.8
+STU1251,16.6,79.4,8.7,Bachelor,Self-study,59.6
+STU1125,23.0,83.2,3.9,Bachelor,Self-study,63.6
+STU1445,15.3,93.8,7.1,Bachelor,Online Course,71.3
+STU1442,1.7,95.8,6.4,High School,Self-study,74.1
+STU1596,10.7,84.8,6.1,Bachelor,Online Course,50.3
+STU1347,5.0,78.1,6.9,High School,Self-study,42.7
+STU1491,19.4,84.6,5.9,Bachelor,Group Study,82.3
+STU1598,9.8,87.2,7.9,High School,Self-study,64.1
+STU1541,6.4,98.8,6.3,High School,Group Study,63.9
+STU1067,17.0,100.0,5.3,High School,Group Study,84.8
+STU1024,9.3,100.0,6.3,Master,Tutoring,65.2
+STU1459,6.0,81.3,,BACHELOR,Online Course,57.4
+STU1504,8.7,96.1,7.0,Bachelor,Self-study,84.1
+STU1415,8.3,87.0,10.7,Bachelor,Tutoring,65.5
+STU1126,7.0,85.2,5.3,High School,Self-study,27.1
+STU1545,8.0,85.2,6.8,High School,Group Study,69.8
+STU1334,16.9,,5.9,High School,Self-study,65.8
+STU1405,,88.9,5.3,High School,Self-study,71.8
+STU1178,10.7,156.2,5.7,Bachelor,Group Study,51.4
+STU1426,7.2,85.4,5.9,Bachelor,Self-study,71.5
+STU1562,16.4,71.1,6.6,Bachelor,Tutoring,47.5
+STU1135,19.7,89.7,6.1,highschool,Online Course,57.1
+STU1223,3.9,81.4,5.4,High School,Tutoring,35.5
+STU1599,13.9,98.6,6.5,BACHELOR,Self-study,69.9
+STU1565,10.0,100.0,5.4,Bachelor,Self-study,80.3
+STU1507,7.7,74.5,9.0,bachelor,Group Study,54.3
+STU1093,10.4,91.2,7.6,Master,Group Study,62.3
+STU1484,8.2,88.8,5.0,Bachelor,Self-study,52.2
+STU1069,8.8,95.9,8.1,phd,Tutoring,58.8
+STU1036,13.0,93.2,8.7,Master,Group Study,56.0
+STU1296,16.5,83.3,9.2,PhD,Online Course,78.0
+STU1160,7.1,79.2,6.5,Bachelor,Self-study,53.9
+STU1362,11.5,87.0,3.3,High School,Self-study,64.8
+STU1011,9.7,84.4,5.6,High School,Online Course,60.1
+STU1144,,90.2,7.7,HIGH SCHOOL,Group Study,73.9
+STU1509,7.8,100.0,5.2,Bachelor,Tutoring,70.1
+STU1127,9.2,88.5,6.3,Master,Self-study,56.7
+STU1409,14.6,79.6,6.2,High School,Tutoring,64.1
+STU1302,15.7,85.3,5.4,High School,Online Course,56.8
+STU1009,14.7,100.0,8.8,Bachelor,Self-study,82.8
+STU1527,12.2,77.5,7.6,BACHELOR,Online Course,57.5
+STU1176,12.1,77.7,5.6,MASTER,Self-study,72.0
+STU1231,13.1,75.8,7.6,Bachelor,Online Course,51.7
+STU1210,14.9,83.1,8.2,Bachelor,Group Study,49.8
+STU1128,12.5,79.6,4.9,Master,Group Study,72.1
+STU1143,12.9,85.3,8.0,Bachelor,Group Study,61.6
+STU1241,11.4,91.7,8.0,Master,Self-study,60.8
+STU1007,15.8,72.6,5.6,High School,Tutoring,68.5
+STU1023,4.9,98.5,7.0,Bachelor,Online Course,50.8
+STU1298,16.1,97.1,7.8,High School,Self-study,55.8
+STU1310,10.9,81.9,5.0,Bachelor,Self-study,52.8
+STU1254,4.4,99.2,7.2,High School,Tutoring,42.9
+STU1544,0.0,83.3,5.3,Master,Self-study,21.6
+STU1480,11.4,81.5,7.0,Master,Self-study,42.3
+STU1008,9.7,67.2,4.7,Bachelor,Tutoring,35.1
+STU1156,21.3,89.9,5.8,High School,Self-study,52.0
+STU1027,13.9,83.7,,High School,Group Study,80.0
+STU1266,20.2,87.9,8.7,Master,Tutoring,49.5
+STU1314,18.5,84.0,6.4,PhD,Self-study,78.8
+STU1064,16.1,77.9,6.7,Bachelor,Self-study,80.3
+STU1465,10.9,73.8,6.5,Bachelor,Group Study,70.9
+STU1255,9.6,79.3,4.2,High School,Tutoring,46.5
+STU1455,8.0,78.3,6.1,Bachelor,Self-study,59.0
+STU1153,13.2,95.5,7.5,High School,Tutoring,61.1
+STU1048,13.7,82.7,6.8,PhD,Self-study,75.1
+STU1208,14.6,97.6,6.1,High School,Tutoring,76.6
+STU1451,85.0,89.0,6.9,high school,Group Study,87.1
+STU1287,,81.4,4.2,Bachelor,Self-study,61.4
+STU1001,11.3,75.8,5.9,Bachelor,Self-study,57.7
+STU1427,15.4,86.2,8.2,Master,Online Course,62.5
+STU1341,13.2,93.7,8.8,Bachelor,Online Course,69.6
+STU1269,12.7,,7.1,High School,Tutoring,78.8
+STU1265,5.8,81.1,7.3,Bachelor,Self-study,47.8
+STU1548,13.9,100.0,6.7,High School,Self-study,77.4
+STU1487,6.6,178.3,6.8,Master,Self-study,53.8
+STU1479,,93.5,5.9,High School,Self-study,76.9
+STU1368,12.5,84.6,4.5,Bachelor,Online Course,58.6
+STU1095,4.7,81.9,6.4,PhD,Self-study,48.0
+STU1582,15.2,94.2,4.5,Master,Self-study,71.3
+STU1352,16.3,72.5,5.4,BACHELOR,Self-study,63.6
+STU1042,11.4,82.4,5.7,PhD,Self-study,54.2
+STU1361,19.7,98.3,,Master,Tutoring,78.3
+STU1454,9.3,79.5,6.9,Bachelor,Self-study,44.1
+STU1455,8.0,78.3,6.1,Bachelor,Self-study,59.0
+STU1116,11.8,86.1,5.1,Bachelor,Self-study,52.6
+STU1424,15.2,100.0,8.9,Bachelor,Self-study,66.5
+STU1045,8.4,82.3,4.9,Bachelor,Tutoring,44.2
+STU1161,15.9,86.2,7.3,Master,Self-study,72.0
+STU1534,8.7,82.6,7.5,Master,Online Course,68.4
+STU1117,6.2,86.5,6.1,Master,Self-study,48.3
+STU1288,13.4,90.9,4.5,High School,Group Study,59.2
+STU1077,10.5,100.0,7.0,bachelor,Group Study,63.3
+STU1538,17.0,91.0,7.7,Bachelor,Group Study,72.2
+STU1389,9.1,85.3,6.6,Bachelor,Tutoring,65.5
+STU1571,20.4,87.8,8.7,Bachelor,Online Course,70.5
+STU1412,4.3,100.0,7.6,Bachelor,Online Course,67.9
+STU1063,6.0,,5.3,High School,Self-study,32.7
+STU1338,14.1,87.4,5.0,bachelor,Online Course,50.9
+STU1315,12.1,87.8,6.3,Bachelor,Group Study,57.7
+STU1299,15.1,76.8,7.3,Master,Self-study,74.0
+STU1399,,90.7,5.6,High School,Self-study,76.8
+STU1230,8.3,71.6,6.9,PhD,Group Study,63.0
+STU1297,13.5,86.5,8.1,High School,Group Study,54.8
+STU1186,14.4,93.3,8.2,Bachelor,Group Study,77.9
+STU1593,13.7,88.2,7.4,PhD,Online Course,59.5
+STU1199,6.3,85.3,5.6,High School,Self-study,46.2
+STU1420,22.3,90.2,6.6,Bachelor,Online Course,73.7
+STU1365,10.0,99.4,6.1,High school ,Tutoring,52.8
+STU1493,7.7,85.5,4.8,master,Group Study,46.6
+STU1396,3.4,164.0,7.3,master,Tutoring,61.4
+STU1121,7.5,67.9,7.2,Bachelor ,Online Course,60.5
+STU1585,13.2,94.4,4.6,Bachelor,Online Course,56.7
+STU1247,8.7,100.0,7.3,High School,Self-study,63.5
+STU1307,,92.5,7.7,Bachelor,Self-study,69.2
+STU1581,9.9,98.9,6.4,Master,Self-study,53.4
+STU1066,11.6,82.5,6.4,PhD,Self-study,72.6
+STU1363,14.0,92.1,7.6,High School,Self-study,81.0
+STU1158,6.0,76.4,4.6,High School,Self-study,61.9
+STU1085,9.5,92.1,4.8,MASTER,Online Course,62.9
+STU1469,9.1,88.5,7.2,Bachelor,Self-study,59.7
+STU1225,17.4,99.5,3.9,Master ,Self-study,73.4
+STU1376,16.4,80.5,4.4,highschool,Tutoring,47.2
+STU1262,0.0,100.0,6.2,bachelor,Online Course,55.5
+STU1331,7.5,100.0,4.2,Bachelor,Group Study,59.2
+STU1233,8.7,77.3,5.7,Bachelor,Self-study,60.8
+STU1076,12.4,73.9,9.5,Bachelor,Online Course,56.6
+STU1475,10.8,80.1,6.1,High School,Tutoring,47.2
+STU1165,,78.0,6.3,Bachelor,Self-study,64.0
+STU1149,13.5,70.9,6.2,PhD,Online Course,59.5
+STU1087,72.4,81.3,7.2,High School,Group Study,68.9
+STU1457,6.8,96.7,8.2,High School,Online Course,56.4
+STU1421,20.8,79.3,4.6,High School,Group Study,63.3
+STU1329,15.1,84.3,5.0,PhD,Online Course,72.8
+STU1182,6.6,,9.3,phd,Tutoring,52.6
+STU1476,14.9,69.4,8.1,Bachelor,Self-study,70.8
+STU1517,7.1,84.4,6.7,Bachelor,Online Course,49.5
+STU1105,14.0,91.1,5.3,Master,Self-study,70.8
+STU1332,12.4,70.5,6.9,Bachelor,Self-study,66.6
+STU1438,3.5,87.2,9.2,bachelor,Tutoring,50.4
+STU1049,3.2,92.0,4.5,Master,Group Study,56.0
+STU1335,11.3,80.0,4.4,High School,Online Course,51.8
+STU1005,10.8,100.0,6.6,Bachelor,Self-study,48.2
+STU1017,13.6,92.3,6.9,High School,Self-study,59.4
+STU1234,22.7,84.7,,Master,Self-study,87.9
+STU1486,8.8,95.3,5.9,High school ,Self-study,69.5
+STU1543,19.2,86.3,8.0,Bachelor,Tutoring,68.1
+STU1497,11.0,65.0,5.6,Bachelors,Group Study,69.8
+STU1106,21.4,72.2,6.5,Bachelor,Self-study,53.7
+STU1443,11.6,84.6,7.1,High School,Tutoring,45.4
+STU1488,20.4,82.4,6.9,PhD,Online Course,66.6
+STU1012,13.2,87.8,5.6,High School,Self-study,81.8
+STU1190,9.8,89.3,7.1,PHD,Group Study,70.4
+STU1282,19.9,80.1,8.7,High School,Group Study,57.7
+STU1029,10.5,95.9,9.4,Bachelor,Tutoring,67.0
+STU1169,8.2,100.0,5.3,High School,Online Course,73.4
+STU1180,15.1,86.8,7.4,PhD,Self-study,57.4
+STU1100,4.9,79.8,5.6,High School,Online Course,58.6
+STU1197,12.8,91.8,5.2,PHD,Self-study,54.7
+STU1495,14.7,84.2,9.0,High School,Self-study,74.1
+STU1588,70.8,90.5,6.9,Bachelor,Tutoring,79.9
+STU1373,16.8,78.5,4.7,Bachelor,Group Study,66.8
+STU1460,21.8,92.7,8.2,PhD ,Self-study,84.2
+STU1413,18.4,78.1,6.4,Master,Self-study,63.8
+STU1131,12.3,75.2,8.1,Bachelor,Group Study,67.1
+STU1039,13.0,72.0,8.6,High School,Tutoring,59.8
+STU1434,19.5,80.2,6.1,Master,Self-study,57.2
+STU1215,15.8,70.1,7.7,High School,Self-study,62.1
+STU1474,20.2,95.0,8.6,High School,Self-study,66.4
+STU1456,11.5,84.7,6.7,High school ,Online Course,71.8
+STU1260,,87.0,6.3,Master,Group Study,66.4
+STU1035,5.9,68.5,8.6,Bachelor,Online Course,55.8
+STU1309,11.0,100.0,8.4,Master,Tutoring,74.3
+STU1276,13.0,79.8,6.3,Bachelor,Self-study,68.9
+STU1393,21.2,78.2,7.7,High School,Self-study,58.7
+STU1107,12.9,100.0,6.5,High School,Group Study,55.9
+STU1569,10.2,93.5,7.2,Master,Self-study,77.1
+STU1524,8.2,100.0,5.3,Bachelor ,Group Study,60.9
+STU1047,17.3,84.5,5.5,Master,Group Study,58.8
+STU1203,17.3,80.4,7.4,Master,Online Course,65.6
+STU1021,10.9,89.7,6.9,Bachelor,Self-study,63.8
+STU1402,12.0,85.6,5.7,MASTER,Tutoring,69.9
+STU1083,9.4,89.9,7.7,Bachelor,Self-study,55.4
+STU1130,4.2,87.0,8.5,Bachelor,Group Study,41.5
+STU1415,8.3,87.0,10.7,Bachelor,Tutoring,65.5
+STU1286,11.2,90.8,4.7,High School,Tutoring,55.9
+STU1123,5.0,92.4,7.1,Master,Tutoring,59.0
+STU1033,6.7,80.7,9.9,high school,Self-study,61.0
+STU1516,14.5,100.0,6.9,Bachelor,Online Course,80.0
+STU1019,4.9,87.2,9.3,High School,Online Course,46.0
+STU1559,9.9,81.8,8.2,Master,Self-study,65.1
+STU1219,12.4,95.7,7.2,Bachelor,Online Course,53.4
+STU1481,,81.5,6.5,Bachelor,Group Study,47.9
+STU1356,11.9,88.4,7.7,bachelor,Self-study,60.6
+STU1224,9.6,80.5,5.1,Bachelor,Group Study,23.5
+STU1092,8.5,74.2,6.5,Bachelor,Tutoring,50.0
+STU1151,13.7,71.5,4.2,Bachelor,Tutoring,72.3
+STU1594,17.2,69.1,6.8,Bachelor,Tutoring,64.0
+STU1317,10.4,86.9,7.3,Master,Tutoring,51.0
+STU1448,9.4,99.8,8.0,High School,Online Course,63.1
+STU1522,8.7,91.4,7.5,Bachelor,Tutoring,66.3
+STU1279,10.1,96.9,5.9,Bachelor,Tutoring,58.1
+STU1349,10.9,87.4,8.1,High School,Online Course,45.4
+STU1374,22.8,80.5,7.1,Bachelor,Group Study,66.7
+STU1400,4.0,99.0,6.3,Masters,Group Study,76.0
+STU1257,8.5,89.7,7.0,PhD,Self-study,69.6
+STU1072,11.8,81.6,5.1,High School,Online Course,56.5
+STU1195,13.9,95.5,6.7,High School,Self-study,80.2
+STU1483,13.0,100.0,6.9,Bachelor,Self-study,58.0
+STU1137,,94.8,6.1,Master,Self-study,68.2
+STU1494,19.6,92.3,6.7,High School,Online Course,65.7
+STU1550,12.4,75.1,3.0,Bachelor,Online Course,68.3
+STU1462,8.5,96.5,3.7,High School,Self-study,72.3
+STU1201,14.8,79.8,7.2,bachelor,Self-study,63.8
+STU1312,16.1,87.5,5.6,Bachelor,Self-study,68.2
+STU1290,11.0,93.2,5.8,Bachelor,Self-study,66.7
+STU1189,4.4,68.4,5.5,Bachelor,Self-study,51.5
+STU1112,12.3,79.6,8.3,High School,Tutoring,70.2
+STU1183,14.4,91.1,5.7,Bachelor ,Group Study,76.2
+STU1152,8.6,75.2,7.2,High School,Group Study,46.0
+STU1325,5.9,69.8,7.9,Master,Group Study,57.5
+STU1044,4.6,82.5,5.7,Bachelor,Self-study,53.2
+STU1444,5.5,83.3,5.1,Bachelors,Self-study,70.0
+STU1006,19.9,77.3,5.6,High School,Group Study,72.6
+STU1250,5.7,78.8,6.9,Bachelor,Group Study,62.0
+STU1075,16.1,77.2,6.7,PhD,Online Course,81.1
+STU1512,10.8,93.7,3.7,Bachelor,Tutoring,63.4
+STU1391,14.5,64.6,2.7,Bachelor,Tutoring,61.0
+STU1432,10.7,89.0,5.7,Master,Self-study,39.6
+STU1068,13.8,58.5,5.5,Bachelor,Tutoring,44.0
+STU1167,21.5,100.0,5.3,Bachelor,Self-study,76.6
+STU1554,13.7,100.0,7.2,High School,Group Study,83.3
+STU1366,13.1,78.2,6.6,Bachelor,Tutoring,53.2
+STU1345,13.2,74.3,7.1,Master,Self-study,77.9
+STU1584,12.9,75.1,6.6,Bachelor,Self-study,61.3
+STU1535,12.2,94.6,4.4,Masters,Self-study,70.0
+STU1398,11.4,79.3,6.5,Master ,Online Course,53.1
+STU1185,15.6,95.8,6.9,High School,Group Study,76.6
+STU1348,8.4,84.5,7.5,High School,Tutoring,57.6
+STU1211,17.7,80.6,7.2,Bachelor,Group Study,61.0
+STU1579,17.7,74.0,5.6,Bachelor,Group Study,68.7
+STU1502,5.0,100.0,7.3,PHD,Self-study,54.6
+STU1537,10.1,72.7,5.1,master,Group Study,55.6
+STU1196,7.6,84.6,4.7,bachelor,Tutoring,54.7
+STU1175,16.1,69.3,6.2,Master,Tutoring,58.6
