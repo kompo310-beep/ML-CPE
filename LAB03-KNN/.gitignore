@@ -1,0 +1,10 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Generated CSV outputs (keep the plots, drop the CSVs)
+mini-proj/classification/outputs/*.csv
+mini-proj/clustering/outputs/*.csv
+
+# Raw dataset (not committed)
+mini-proj/dataset/
