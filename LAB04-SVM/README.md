@@ -1,7 +1,7 @@
 # SVM on Tomato Leaf Disease (PlantVillage)
 
 This project uses Support Vector Machine (SVM) to classify tomato leaf diseases from the
-PlantVillage Tomato Leaf dataset(https://www.kaggle.com/datasets/charuchaudhry/plantvillage-tomato-leaf-dataset?select=plantvillage),
+PlantVillage Tomato Leaf dataset (https://www.kaggle.com/datasets/charuchaudhry/plantvillage-tomato-leaf-dataset?select=plantvillage),
 which consists of 10 classes (9 diseases + healthy leaves). The file structure remains the same, but the code has been rewritten to:
 
 Handle a multi-class dataset
