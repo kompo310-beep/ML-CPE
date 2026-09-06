@@ -1,0 +1,12 @@
+# Virtual environment
+.venv/
+
+# Dataset
+tomato-dataset/
+
+# Python cache
+__pycache__/
+
+# Outputs — keep only image files, ignore everything else
+classification/outputs/*
+!classification/outputs/*.png
