@@ -1,4 +1,4 @@
-# ML-08-Deep Convolutional Neural Network (DCNN)
+# ML-07-Deep Convolutional Neural Network (DCNN)
 
 Build a DCNN based on the VGG architecture using Python for image classification. The project covers image loading, preprocessing, dataset splitting, DCNN (VGG) model training, evaluation, and Rock Paper Scissors hand-gesture classification.
 
