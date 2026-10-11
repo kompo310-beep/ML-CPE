@@ -1,0 +1,10 @@
+# Dataset
+rockpaperscissors/
+
+# Python cache
+__pycache__/
+
+# Outputs — keep PNG images only
+classification/outputs/**
+!classification/outputs/**/
+!classification/outputs/**/*.png
