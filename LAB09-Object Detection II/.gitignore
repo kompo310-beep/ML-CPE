@@ -1,0 +1,20 @@
+# Python cache and environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Downloaded pretrained model
+/yolo11n.pt
+
+# Ignore generated run artifacts, but keep generated image files
+/runs/**
+!/runs/**/
+!/runs/**/*.jpg
+!/runs/**/*.jpeg
+!/runs/**/*.png
+!/runs/**/*.bmp
+!/runs/**/*.webp
+!/runs/**/*.tif
+!/runs/**/*.tiff
